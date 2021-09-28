@@ -1,0 +1,49 @@
+@import url("https://fonts.googleapis.com/css2?family=Overpass:wght@100&display=swap");
+* {
+  padding: 0;
+  margin: 0;
+  background-color: black;
+  text-align: center;
+  color: white;
+  font-family: "Overpass", sans-serif;
+}
+h1 {
+  font-size: 3.5rem;
+  margin-top: 2rem;
+}
+.movie-btn {
+  padding: 1rem 2rem;
+  margin: 1rem;
+  border-radius: 0.5rem;
+  background-color: #fe3516;
+  font-size: 1.2rem;
+  font-weight: bold;
+  border: 2px solid #fe3516;
+}
+.movie-btn:hover {
+  background-color: black;
+  border: 2px solid red;
+}
+.movie-block {
+  height: 25vh;
+  border: 2px solid #fe3516;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 1rem;
+  padding: 1rem;
+}
+.movie-name {
+  font-size: 2rem;
+  margin-top: 1rem;
+  margin-bottom: 0.5rem;
+  color: rgb(0, 133, 71);
+  font-weight: bold;
+}
+.movie-rating {
+  font-size: 1.2rem;
+}
+.movie-desc {
+  font-size: 1.2rem;
+  text-align-last: left;
+}

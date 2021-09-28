@@ -1,2 +1,2 @@
-# bollywood-movie-react-app
+# bollywood-movie-app
 Created with CodeSandbox
